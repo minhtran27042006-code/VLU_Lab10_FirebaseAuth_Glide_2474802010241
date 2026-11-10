@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "123456789012",
-    "project_id": "lab09-auth-glide-2474802010241",
-    "storage_bucket": "lab09-auth-glide-2474802010241.firebasestorage.app"
+    "project_id": "vlu-lab10-2474802010241",
+    "storage_bucket": "vlu-lab10-2474802010241.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:123456789012:android:abcdef0123456789",
         "android_client_info": {
-          "package_name": "vn.edu.vlu.lab09"
+          "package_name": "vn.edu.vlu.lab10"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_type": 1,
           "android_info": {
             "certificate_hash": "d2dd1ca3704a4d430e5464bce4ee0c893fb2e179",
-            "package_name": "vn.edu.vlu.lab09"
+            "package_name": "vn.edu.vlu.lab10"
           }
         },
         {

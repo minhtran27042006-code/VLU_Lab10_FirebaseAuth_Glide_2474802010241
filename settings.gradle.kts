@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lab09_2474802010241_TranQuangMinh"
+rootProject.name = "VLU_Lab10_FirebaseAuth_Glide_2474802010241"
 include(":app")

@@ -1,33 +1,12 @@
 <resources>
-    <string name="app_name">Lab 09 - Firebase &amp; Glide</string>
-    <string name="title_auth">Firebase Authentication</string>
-    <string name="subtitle_auth">VLU Mobile Application Programming</string>
-    <string name="login">Đăng nhập</string>
-    <string name="register">Đăng ký</string>
-    <string name="email">Email</string>
-    <string name="password">Mật khẩu</string>
-    <string name="confirm_password">Xác nhận mật khẩu</string>
-    <string name="forgot_password">Quên mật khẩu?</string>
-    <string name="reset_password_title">Đặt lại mật khẩu</string>
-    <string name="reset_password_message">Nhập địa chỉ email của bạn để nhận liên kết đặt lại mật khẩu qua email:</string>
-    <string name="send_reset_link">Gửi liên kết</string>
-    <string name="cancel">Hủy</string>
-    <string name="logout">Đăng xuất</string>
-    <string name="image_gallery">Online Image Gallery</string>
-    <string name="explore_photos">Khám phá bộ sưu tập ảnh độ nét cao trực tuyến</string>
-
-    <!-- Error & Validation Messages -->
-    <string name="error_empty_email">Vui lòng nhập địa chỉ email</string>
-    <string name="error_invalid_email">Định dạng email không hợp lệ</string>
-    <string name="error_short_password">Mật khẩu phải có ít nhất 6 ký tự</string>
-    <string name="error_password_not_match">Mật khẩu xác nhận không khớp</string>
-    <string name="error_weak_password">Mật khẩu quá yếu! Vui lòng chọn mật khẩu mạnh hơn (tối thiểu 6 ký tự).</string>
-    <string name="error_email_collision">Email này đã được đăng ký tài khoản khác.</string>
-    <string name="error_invalid_credentials">Sai email hoặc mật khẩu. Vui lòng kiểm tra lại.</string>
-    <string name="error_network">Lỗi kết nối mạng! Vui lòng kiểm tra internet và thử lại.</string>
-    <string name="reset_email_sent">Đã gửi liên kết đặt lại mật khẩu! Vui lòng kiểm tra hòm thư.</string>
-    <string name="account_created_success">Tạo tài khoản thành công! Đang chuyển hướng...</string>
-    <string name="login_success">Đăng nhập thành công!</string>
-    <string name="welcome_user">Xin chào, %1$s</string>
-    <string name="connected_session">Phiên đăng nhập Firebase an toàn</string>
+    <string name="app_name">VLU Lab10 Firebase Glide</string>
+    <string name="tab_login">Login</string>
+    <string name="tab_register">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Create Account</string>
+    <string name="btn_logout">Logout</string>
+    <string name="title_gallery">Photo Gallery</string>
 </resources>
