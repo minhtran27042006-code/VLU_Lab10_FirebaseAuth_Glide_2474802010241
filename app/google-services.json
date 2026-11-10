@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "lab09-auth-glide-2474802010241",
+    "storage_bucket": "lab09-auth-glide-2474802010241.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef0123456789",
+        "android_client_info": {
+          "package_name": "vn.edu.vlu.lab09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "certificate_hash": "d2dd1ca3704a4d430e5464bce4ee0c893fb2e179",
+            "package_name": "vn.edu.vlu.lab09"
+          }
+        },
+        {
+          "client_id": "123456789012-webclientidexampleforfirebaseauth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyExampleKeyForGradleBuildVerification123"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
